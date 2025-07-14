@@ -113,6 +113,7 @@ SIMPLE_JWT = {
 
 
 load_dotenv()
+STRIPE_SECRET_KEY = os.getenv("STRIPE_SECRET_KEY")
 
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
