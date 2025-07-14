@@ -38,7 +38,7 @@ ALLOWED_HOSTS = [
     "https://frontend-eight-rho-95.vercel.app",
     "https://bharbhoxbackend-production.up.railway.app" 
     "https://bhaubhoxbackend-production.up.railway.app",
-
+    "https://bhau-box-new-mvw3.vercel.app",
 ]
 
 
@@ -178,6 +178,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://frontend-eight-rho-95.vercel.app",  # any deployed frontend
     "https://valourwealthy.vercel.app",
     "https://bhaubhoxbackend-production.up.railway.app",
+    "https://bhau-box-new-mvw3.vercel.app",
 
 ]
 CORS_ALLOW_CREDENTIALS = True
