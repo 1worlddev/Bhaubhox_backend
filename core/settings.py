@@ -37,6 +37,7 @@ ALLOWED_HOSTS = [
     "valourwealthdjango-production.up.railway.app",
     "https://frontend-eight-rho-95.vercel.app",
     "https://bharbhoxbackend-production.up.railway.app" 
+    "bhaubhoxbackend-production.up.railway.app"
 ]
 
 
@@ -175,6 +176,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://192.168.1.101:3000",  # your local IP
     "https://frontend-eight-rho-95.vercel.app",  # any deployed frontend
     "https://valourwealthy.vercel.app",
+    "bhaubhoxbackend-production.up.railway.app",
 ]
 CORS_ALLOW_CREDENTIALS = True
 # Password validation
